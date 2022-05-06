@@ -1,0 +1,36 @@
+@import '~antd/dist/antd.css';
+@import './pages/employee.scss';
+
+.main_container {
+  padding: 50px;
+}
+
+.status-icon {
+  font-size: 3rem;
+  margin: auto;
+  margin-top: 4rem;
+
+  .status-text {
+    font-size: 1rem;
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+    color: #2f353a;
+    text-align: center;
+  }
+
+  .status-spinner {
+    color: #36a8d8;
+    text-align: center;
+  }
+
+  .status-spinner-failed {
+    color: #f86c6b;
+    text-align: center;
+  }
+
+  .status-spinner-empty {
+      color: #ffc107;
+      text-align: center;
+  }
+}

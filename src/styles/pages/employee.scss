@@ -1,0 +1,17 @@
+.employee-list-container {
+  margin: auto;
+
+  .emp-list-content {
+    float: right;
+    margin-bottom: 2rem;
+  }
+}
+
+.employee-add-container {
+  margin: auto;
+  .form-add-employee {
+    .btn-submit {
+      float: right;
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "john wick",
+      "last_name": "stone wick",
+      "email_address": "tomhanks@gmail.com",
+      "phone_number": "65224454",
+      "created_at": "2021-06-20T06:32:04.809Z",
+      "gender": "female"
+    },
+    {
+      "first_name": "lionel",
+      "last_name": "messis",
+      "email_address": "gunmap08@gmail.com",
+      "phone_number": "65232345",
+      "gender": "male",
+      "created_at": "",
+      "id": 3
+    },
+    {
+      "first_name": "cristinal",
+      "last_name": "ronaldo",
+      "gender": "female",
+      "id": 5,
+      "created_at": "",
+      "email_address": "sonpham@gmail.com"
+    },
+    {
+      "first_name": "marional",
+      "last_name": "balotelo",
+      "email_address": "gunmap08@gmail.com",
+      "id": 6,
+      "phone_number": "88888888",
+      "created_at": "",
+      "gender": "female"
+    },
+    {
+      "first_name": "jususy",
+      "last_name": "lingard",
+      "phone_number": "88888888",
+      "gender": "male",
+      "id": 7,
+      "created_at": "",
+      "email_address": "gunmap08@gmail.com"
+    },
+    {
+      "first_name": "antonio",
+      "last_name": "krooss any",
+      "id": 8,
+      "gender": "male",
+      "created_at": "2021-06-20T06:33:25.996Z",
+      "email_address": "gunmap08@gmail.com"
+    },
+    {
+      "first_name": "alvalro",
+      "last_name": "morata",
+      "created_at": "2021-06-20T06:44:22.791Z",
+      "id": 12,
+      "gender": "male",
+      "phone_number": "65232345"
+    },
+    {
+      "first_name": "marcos",
+      "last_name": "reus na",
+      "email_address": "sonpham@gmail.com",
+      "created_at": "2021-06-20T06:32:13.414Z",
+      "id": 13,
+      "gender": "female"
+    },
+    {
+      "first_name": "raulyl",
+      "last_name": "gonzaloes",
+      "created_at": "",
+      "id": 14
+    },
+    {
+      "first_name": "ruizlul",
+      "last_name": "vaniterrol",
+      "phone_number": "",
+      "gender": "male",
+      "created_at": "2021-06-20T06:44:53.412Z",
+      "id": 15
+    }
+  ]
+}
